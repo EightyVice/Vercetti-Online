@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Launcher", "Launcher\Launcher.csproj", "{2EA9A5E1-E5A7-4BB3-A573-D8438B2FA051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vo-client", "vo-client\vo-client.csproj", "{EFCD4087-D1AB-4ABD-8717-E7814590B402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{4CEE3C05-E88E-4CA4-9244-F9CDF9C23464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA9A5E1-E5A7-4BB3-A573-D8438B2FA051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA9A5E1-E5A7-4BB3-A573-D8438B2FA051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA9A5E1-E5A7-4BB3-A573-D8438B2FA051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA9A5E1-E5A7-4BB3-A573-D8438B2FA051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFCD4087-D1AB-4ABD-8717-E7814590B402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCD4087-D1AB-4ABD-8717-E7814590B402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCD4087-D1AB-4ABD-8717-E7814590B402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCD4087-D1AB-4ABD-8717-E7814590B402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CEE3C05-E88E-4CA4-9244-F9CDF9C23464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEE3C05-E88E-4CA4-9244-F9CDF9C23464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEE3C05-E88E-4CA4-9244-F9CDF9C23464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEE3C05-E88E-4CA4-9244-F9CDF9C23464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA8978F9-FAC6-4C23-BEBE-E5BCD125C879}
+	EndGlobalSection
+EndGlobal

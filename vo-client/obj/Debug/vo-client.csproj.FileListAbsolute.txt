@@ -1,0 +1,29 @@
+C:\Users\Zurix\source\repos\Vercitti Online\vo-client\bin\Debug\vo-client.dll
+C:\Users\Zurix\source\repos\Vercitti Online\vo-client\bin\Debug\vo-client.pdb
+C:\Users\Zurix\source\repos\Vercitti Online\vo-client\bin\Debug\GTASDKNET.dll
+C:\Users\Zurix\source\repos\Vercitti Online\vo-client\bin\Debug\System.Memory.dll
+C:\Users\Zurix\source\repos\Vercitti Online\vo-client\bin\Debug\EasyHook.dll
+C:\Users\Zurix\source\repos\Vercitti Online\vo-client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Zurix\source\repos\Vercitti Online\vo-client\bin\Debug\System.Buffers.dll
+C:\Users\Zurix\source\repos\Vercitti Online\vo-client\bin\Debug\GTASDKNET.pdb
+C:\Users\Zurix\source\repos\Vercitti Online\vo-client\bin\Debug\GTASDKNET.dll.config
+C:\Users\Zurix\source\repos\Vercitti Online\vo-client\bin\Debug\System.Memory.xml
+C:\Users\Zurix\source\repos\Vercitti Online\vo-client\bin\Debug\EasyHook.xml
+C:\Users\Zurix\source\repos\Vercitti Online\vo-client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Zurix\source\repos\Vercitti Online\vo-client\bin\Debug\System.Buffers.xml
+C:\Users\Zurix\source\repos\Vercitti Online\vo-client\obj\Debug\vo-client.csprojAssemblyReference.cache
+C:\Users\Zurix\source\repos\Vercitti Online\vo-client\obj\Debug\vo-client.csproj.CoreCompileInputs.cache
+C:\Users\Zurix\source\repos\Vercitti Online\vo-client\obj\Debug\vo-client.csproj.CopyComplete
+D:\GTAVC\GTASDK.NET\vo-client.net.dll
+D:\GTAVC\GTASDK.NET\vo-client.net.pdb
+C:\Users\Zurix\source\repos\Vercitti Online\vo-client\obj\Debug\vo-client.net.dll
+C:\Users\Zurix\source\repos\Vercitti Online\vo-client\obj\Debug\vo-client.net.pdb
+D:\GTA VC - .NET SDK\GTASDK.NET\vo-client.net.dll
+D:\GTA VC - .NET SDK\GTASDK.NET\vo-client.net.pdb
+E:\Projects\Vercitti Online\vo-client\obj\Debug\vo-client.csprojAssemblyReference.cache
+E:\Projects\Vercitti Online\vo-client\obj\Debug\vo-client.csproj.CoreCompileInputs.cache
+E:\Projects\Vercitti Online\vo-client\obj\Debug\vo-client.csproj.CopyComplete
+E:\Projects\Vercitti Online\vo-client\obj\Debug\vo-client.net.dll
+E:\Projects\Vercitti Online\vo-client\obj\Debug\vo-client.net.pdb
+D:\GTA VC - .NET SDK\scripts\GTASDK.NET\vo-client.net.dll
+D:\GTA VC - .NET SDK\scripts\GTASDK.NET\vo-client.net.pdb
